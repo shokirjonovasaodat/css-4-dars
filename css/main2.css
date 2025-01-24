@@ -1,0 +1,44 @@
+.box{
+    width: 1200px;
+    margin: 0 auto;
+}
+.a{
+    width: 120px;
+    height: 120px;
+    background-color: cornflowerblue;
+    text-align: center;
+    line-height: 110px;
+    font-size: 90px;
+    margin-left: 0;
+    margin-top: 10px;
+}
+.b{
+    width: 120px;
+    height: 250px;
+    background-color: cornflowerblue;
+    text-align: center;
+    line-height: 110px;
+    font-size: 90px;
+    margin-left: 130px;
+    margin-top: -120px;  
+}
+.c{
+    width: 120px;
+    height: 120px;
+    background-color: cornflowerblue;
+    text-align: center;
+    line-height: 110px;
+    font-size: 90px;
+    margin-left: 260px;
+    margin-top: -120px;
+}
+.d{
+    width: 120px;
+    height: 120px;
+    background-color: cornflowerblue;
+    text-align: center;
+    line-height: 110px;
+    font-size: 90px;
+    margin-left: 390;
+    margin-top: -120px;
+}
